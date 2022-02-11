@@ -1,0 +1,54 @@
+/*--------- HEADER  --------------------------*/
+
+/* .header-email::before {
+  width: 16px;
+  height: 12px;
+  content: "";
+  margin-right: 10px;
+  background-image: url(../images/envelope.svg);
+  background-size: contain;
+  display: inline-block;
+  align-items: center;
+  fill: currentColor;
+  background-repeat: no-repeat;
+  background-position: center;
+} */
+
+/* .header-email::before:hover,
+.header-email::before:focus {
+  fill: currentColor;
+} */
+
+/* .header-tel::before {
+  content: "";
+  width: 10px;
+  height: 16px;
+  background-image: url(../images/smartphone.svg);
+  margin-right: 10px;
+  display: inline-block;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  fill: currentColor;
+  box-sizing: border-box;
+} */
+
+/* --------------------HERO---------------------- */
+
+/* -----------FEATURE---------------- */
+
+/* -------------ABOUT------------------ */
+
+/* ----------------TEAM----------------- */
+
+/* ----------------CLIENTS----------------- */
+
+/* -------------NAV---------------------------- */
+/* .nav {
+  padding-top: 94px;
+  padding-bottom: 50px;
+} */
+
+/* ----------FOOTER--------------------- */
+
+/* ---------------------BACKDROP--------------------------------- */

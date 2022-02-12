@@ -87,7 +87,6 @@
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
-  letter-spacing: 0.06em;
   color: var(--second-title-color);
 }
 
@@ -103,4 +102,5 @@
 }
 .portfolio-list__item-text {
   padding: 20px 24px;
+  flex-grow: 1;
 }

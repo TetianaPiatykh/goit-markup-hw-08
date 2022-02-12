@@ -102,7 +102,7 @@
   color: var(--first-btn-color);
   display: flex;
   align-items: center;
-  //
+  margin-bottom: 10px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   &:hover,
@@ -114,6 +114,7 @@
     font-size: 14px;
     line-height: (16 / 14);
     margin-right: 50px;
+    margin-bottom: 0;
   }
 }
 

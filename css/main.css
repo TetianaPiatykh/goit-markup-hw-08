@@ -430,6 +430,7 @@ body {
   color: var(--first-btn-color);
   display: flex;
   align-items: center;
+  margin-bottom: 10px;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -442,6 +443,7 @@ body {
     font-size: 14px;
     line-height: 1.14286;
     margin-right: 50px;
+    margin-bottom: 0;
   }
 }
 
@@ -1174,7 +1176,6 @@ body {
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
-  letter-spacing: 0.06em;
   color: var(--second-title-color);
 }
 
@@ -1191,6 +1192,7 @@ body {
 
 .portfolio-list__item-text {
   padding: 20px 24px;
+  flex-grow: 1;
 }
 
 .footer__section {
